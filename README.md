@@ -12,8 +12,7 @@
 ### Python 版本：Python 3.10 及以上
 ## 依赖安装：
 ```
-bash
-pip install opencv-python openpyxl numpy Pillow tkinter  
+pip install opencv-python openpyxl Pillow tkinter numpy
 ```
 ## 使用指南
 ### 1. 项目初始化
